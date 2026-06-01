@@ -1,2 +1,0 @@
-# Parler
-French learning app
